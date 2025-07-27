@@ -49,6 +49,6 @@ A multilingual, intelligent Insurance Q&A chatbot built using **Streamlit**, **G
 project/
 │
 ├── app.py                      # Main Streamlit app
-├── policies/                   # Folder containing policy_1_text to policy_21_text
+├── policies/                   # Folder containing policy_1_text to policy_200_text
 ├── requirements.txt            # Python dependencies
 └── README.md                   # You're reading it!
